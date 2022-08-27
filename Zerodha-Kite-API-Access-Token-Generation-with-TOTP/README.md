@@ -2,7 +2,7 @@
 
 First, you will have to register for 2Factor TOTP on the Zerodha Kite website. While enabling TOTP, you have to scan the QR code using Google or Microsoft Authenticator and copy the TOTP KEY, as shown in the figure below.
 
-![alt text](https://github.com/ShabbirHasan1/API-Access-Token-Generation/Zerodha-Kite-API-Access-Token-Generation-with-TOTP/blob/main/Capture.PNG?raw=true)
+![alt text](https://raw.githubusercontent.com/ShabbirHasan1/API-Access-Token-Generation/main/Zerodha-Kite-API-Access-Token-Generation-with-TOTP/Capture.png)
 
 ### Method1 (Without Selenium Webdriver): 
 - With the help of the *get-post requests session*, we can get the access token.
